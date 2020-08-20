@@ -1,0 +1,52 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 29
+
+    defaultConfig {
+        minSdkVersion 16
+        targetSdkVersion 29
+        versionCode 1
+        versionName "1.0"
+
+        missingDimensionStrategy 'react-native-camera', 'general'
+        multiDexEnabled true
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        consumerProguardFiles "consumer-rules.pro"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: "libs", include: ["*.jar"])
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+
+    implementation 'com.walmartlabs.ern:react-native:0.61.1'
+    implementation 'com.google.code.gson:gson:2.8.6'
+
+    implementation project(path: ':react-native-fast-image')
+    implementation project(path: ':react-native-camera')
+    implementation project(path: ':react-native-gesture-handler')
+    implementation project(path: ':react-native-safe-area-context')
+    implementation project(path: ':react-native-localize')
+    implementation project(path: ':react-native-localization')
+    implementation project(path: ':react-native-snackbar')
+    implementation project(path: ':react-native-vector-icons')
+    implementation project(path: ':react-native-webview')
+    implementation project(path: ':react-native-color-matrix-image-filters')
+    implementation project(path: ':react-native-slider')
+    implementation project(path: ':react-native-svg')
+
+
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.1'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+
+}

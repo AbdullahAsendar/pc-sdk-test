@@ -1,0 +1,43 @@
+include ':lib'
+include ':app'
+rootProject.name = "program-android-sdk"
+
+
+include ':react-native-gesture-handler'
+project(':react-native-gesture-handler').projectDir = file('react-native-dependencies/react-native-gesture-handler/android')
+
+include ':react-native-safe-area-context'
+project(':react-native-safe-area-context').projectDir = new File(rootProject.projectDir, 'react-native-dependencies/react-native-safe-area-context/android')
+
+include ':react-native-localize'
+project(':react-native-localize').projectDir = new File(rootProject.projectDir, 'react-native-dependencies/react-native-localize/android')
+
+include ':react-native-localization'
+project(':react-native-localization').projectDir = new File(rootProject.projectDir, 'react-native-dependencies/react-native-localization/android')
+
+include ':react-native-snackbar'
+project(':react-native-snackbar').projectDir = new File(rootProject.projectDir, 'react-native-dependencies/react-native-snackbar/android')
+
+include ':react-native-vector-icons'
+project(':react-native-vector-icons').projectDir = new File(rootProject.projectDir, 'react-native-dependencies/react-native-vector-icons/android')
+
+include ':react-native-fast-image'
+project(':react-native-fast-image').projectDir = new File(rootProject.projectDir, 'react-native-dependencies/react-native-fast-image/android')
+
+include ':react-native-webview'
+project(':react-native-webview').projectDir = new File(rootProject.projectDir, 'react-native-dependencies/react-native-webview/android')
+
+
+include ':react-native-color-matrix-image-filters'
+project(':react-native-color-matrix-image-filters').projectDir = new File(rootProject.projectDir, 'react-native-dependencies/react-native-color-matrix-image-filters/android')
+
+
+include ':react-native-slider'
+project(':react-native-slider').projectDir = new File(rootProject.projectDir, 'react-native-dependencies/@react-native-community/slider/android')
+
+
+include ':react-native-svg'
+project(':react-native-svg').projectDir = new File(rootProject.projectDir, 'react-native-dependencies/react-native-svg/android')
+
+include ':react-native-camera'
+project(':react-native-camera').projectDir = new File(rootProject.projectDir, 'react-native-dependencies/react-native-camera/android')

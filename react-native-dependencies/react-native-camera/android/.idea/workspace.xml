@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e84462b1-6035-463e-bd79-906a6bffb4b5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../android/ProgramSdk/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../android/ProgramSdk/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../android/ProgramSdk/src/main/assets/index.android.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../android/ProgramSdk/src/main/assets/index.android.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../android/ProgramSdk/src/main/java/com/pc/android/program/sdk/PointCheckoutActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../android/ProgramSdk/src/main/java/com/pc/android/program/sdk/PointCheckoutActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../android/ProgramSdk/src/main/java/com/pc/android/program/sdk/PointCheckoutClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../android/ProgramSdk/src/main/java/com/pc/android/program/sdk/PointCheckoutClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../android/ProgramSdk/src/main/java/com/pc/android/program/sdk/internal/reactnative/RNEventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../android/ProgramSdk/src/main/java/com/pc/android/program/sdk/internal/reactnative/RNEventHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../android/ProgramSdk/src/main/java/com/pc/android/program/sdk/internal/reactnative/RNLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../android/ProgramSdk/src/main/java/com/pc/android/program/sdk/internal/reactnative/RNLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dependencies/react-native/android/com/facebook/react/react-native/0.61.5/react-native-0.61.5.pom" beforeDir="false" afterPath="$PROJECT_DIR$/../../../dependencies/react-native/android/com/facebook/react/react-native/0.61.5/react-native-0.61.5.pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../@react-native-community/slider/android/build/intermediates/compile_only_not_namespaced_r_class_jar/release/generateReleaseRFile/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../@react-native-community/slider/android/build/intermediates/compile_only_not_namespaced_r_class_jar/release/generateReleaseRFile/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../@react-native-community/slider/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../@react-native-community/slider/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/general/java/org/reactnative/facedetector/tasks/FileFaceDetectionAsyncTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/general/java/org/reactnative/facedetector/tasks/FileFaceDetectionAsyncTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/google/android/cameraview/AspectRatio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/google/android/cameraview/AspectRatio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/google/android/cameraview/Camera1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/google/android/cameraview/Camera1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/google/android/cameraview/Camera2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/google/android/cameraview/Camera2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/google/android/cameraview/Camera2Api23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/google/android/cameraview/Camera2Api23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/google/android/cameraview/CameraView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/google/android/cameraview/CameraView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/google/android/cameraview/CameraViewImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/google/android/cameraview/CameraViewImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/google/android/cameraview/Size.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/google/android/cameraview/Size.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/google/android/cameraview/SizeMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/google/android/cameraview/SizeMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/google/android/cameraview/SurfaceViewPreview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/google/android/cameraview/SurfaceViewPreview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lwansbrough/RCTCamera/MutableImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lwansbrough/RCTCamera/MutableImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lwansbrough/RCTCamera/RCTCamera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lwansbrough/RCTCamera/RCTCamera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lwansbrough/RCTCamera/RCTCameraModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lwansbrough/RCTCamera/RCTCameraModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lwansbrough/RCTCamera/RCTCameraViewFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lwansbrough/RCTCamera/RCTCameraViewFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lwansbrough/RCTCamera/RCTCameraViewManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lwansbrough/RCTCamera/RCTCameraViewManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/CameraModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/CameraModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/CameraViewManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/CameraViewManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/RNCameraView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/RNCameraView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/RNCameraViewHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/RNCameraViewHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/events/BarCodeReadEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/events/BarCodeReadEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/events/BarcodeDetectionErrorEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/events/BarcodeDetectionErrorEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/events/BarcodesDetectedEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/events/BarcodesDetectedEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/events/CameraMountErrorEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/events/CameraMountErrorEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/events/CameraReadyEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/events/CameraReadyEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/events/FaceDetectionErrorEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/events/FaceDetectionErrorEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/events/FacesDetectedEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/events/FacesDetectedEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/events/PictureSavedEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/events/PictureSavedEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/events/PictureTakenEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/events/PictureTakenEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/events/TextRecognizedEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/events/TextRecognizedEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/tasks/ResolveTakenPictureAsyncTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/tasks/ResolveTakenPictureAsyncTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/reactnative/camera/utils/ObjectUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mlkit/java/org/reactnative/barcodedetector/BarcodeFormatUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mlkit/java/org/reactnative/barcodedetector/BarcodeFormatUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mlkit/java/org/reactnative/barcodedetector/RNBarcodeDetector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mlkit/java/org/reactnative/barcodedetector/RNBarcodeDetector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mlkit/java/org/reactnative/camera/tasks/BarcodeDetectorAsyncTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mlkit/java/org/reactnative/camera/tasks/BarcodeDetectorAsyncTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mlkit/java/org/reactnative/facedetector/tasks/FileFaceDetectionAsyncTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mlkit/java/org/reactnative/facedetector/tasks/FileFaceDetectionAsyncTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/generated/source/apt/debug/com/bumptech/glide/GeneratedAppGlideModuleImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-fast-image/android/build/generated/source/apt/debug/com/bumptech/glide/GeneratedAppGlideModuleImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/generated/source/apt/debug/com/bumptech/glide/GeneratedRequestManagerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-fast-image/android/build/generated/source/apt/debug/com/bumptech/glide/GeneratedRequestManagerFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/generated/source/apt/debug/com/dylanvann/fastimage/GlideApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-fast-image/android/build/generated/source/apt/debug/com/dylanvann/fastimage/GlideApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/generated/source/apt/debug/com/dylanvann/fastimage/GlideOptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-fast-image/android/build/generated/source/apt/debug/com/dylanvann/fastimage/GlideOptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/generated/source/apt/debug/com/dylanvann/fastimage/GlideRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-fast-image/android/build/generated/source/apt/debug/com/dylanvann/fastimage/GlideRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/generated/source/apt/debug/com/dylanvann/fastimage/GlideRequests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-fast-image/android/build/generated/source/apt/debug/com/dylanvann/fastimage/GlideRequests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/generated/source/apt/release/com/bumptech/glide/GeneratedAppGlideModuleImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/generated/source/apt/release/com/bumptech/glide/GeneratedRequestManagerFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/generated/source/apt/release/com/bumptech/glide/annotation/compiler/GlideIndexer_GlideModule_com_dylanvann_fastimage_FastImageOkHttpProgressGlideModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/generated/source/apt/release/com/dylanvann/fastimage/GlideApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/generated/source/apt/release/com/dylanvann/fastimage/GlideOptions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/generated/source/apt/release/com/dylanvann/fastimage/GlideRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/generated/source/apt/release/com/dylanvann/fastimage/GlideRequests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/generated/source/buildConfig/release/com/dylanvann/fastimage/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/annotation_processor_list/debug/annotationProcessors.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/annotation_processor_list/debug/annotationProcessors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/annotation_processor_list/release/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/compile_library_classes/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/compile_library_classes/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/generateDebugRFile/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/generateDebugRFile/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/compile_only_not_namespaced_r_class_jar/release/generateReleaseRFile/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/incremental/packageReleaseResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/bumptech/glide/GeneratedAppGlideModuleImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/bumptech/glide/GeneratedAppGlideModuleImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/bumptech/glide/GeneratedRequestManagerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/bumptech/glide/GeneratedRequestManagerFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/dylanvann/fastimage/GlideApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/dylanvann/fastimage/GlideApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/dylanvann/fastimage/GlideOptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/dylanvann/fastimage/GlideOptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/dylanvann/fastimage/GlideRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/dylanvann/fastimage/GlideRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/dylanvann/fastimage/GlideRequests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/dylanvann/fastimage/GlideRequests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/bumptech/glide/GeneratedAppGlideModuleImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/bumptech/glide/GeneratedRequestManagerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/bumptech/glide/annotation/compiler/GlideIndexer_GlideModule_com_dylanvann_fastimage_FastImageOkHttpProgressGlideModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/dylanvann/fastimage/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/dylanvann/fastimage/FastImageCacheControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/dylanvann/fastimage/FastImageGlideModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/dylanvann/fastimage/FastImageOkHttpProgressGlideModule$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/dylanvann/fastimage/FastImageOkHttpProgressGlideModule$DispatchingProgressListener$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/dylanvann/fastimage/FastImageOkHttpProgressGlideModule$DispatchingProgressListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/dylanvann/fastimage/FastImageOkHttpProgressGlideModule$OkHttpProgressResponseBody$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/dylanvann/fastimage/FastImageOkHttpProgressGlideModule$OkHttpProgressResponseBody.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/dylanvann/fastimage/FastImageOkHttpProgressGlideModule$ResponseProgressListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/dylanvann/fastimage/FastImageOkHttpProgressGlideModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/dylanvann/fastimage/FastImageProgressListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/dylanvann/fastimage/FastImageRequestListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/dylanvann/fastimage/FastImageSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/dylanvann/fastimage/FastImageViewConverter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/dylanvann/fastimage/FastImageViewConverter$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/dylanvann/fastimage/FastImageViewConverter$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/dylanvann/fastimage/FastImageViewConverter$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/dylanvann/fastimage/FastImageViewConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/dylanvann/fastimage/FastImageViewManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/dylanvann/fastimage/FastImageViewModule$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/dylanvann/fastimage/FastImageViewModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/dylanvann/fastimage/FastImageViewPackage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/dylanvann/fastimage/FastImageViewWithUrl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/dylanvann/fastimage/GlideApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/dylanvann/fastimage/GlideOptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/dylanvann/fastimage/GlideRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/dylanvann/fastimage/GlideRequests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/library_java_res/release/res.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/library_manifest/release/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/merged_manifests/release/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/res/symbol-table-with-package/release/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/runtime_library_classes/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/intermediates/symbols/release/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-fast-image/android/build/outputs/logs/manifest-merger-release-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-gesture-handler/android/build/intermediates/compile_only_not_namespaced_r_class_jar/release/generateReleaseRFile/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-gesture-handler/android/build/intermediates/compile_only_not_namespaced_r_class_jar/release/generateReleaseRFile/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-gesture-handler/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-gesture-handler/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-localization/android/build/intermediates/compile_only_not_namespaced_r_class_jar/release/generateReleaseRFile/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-localization/android/build/intermediates/compile_only_not_namespaced_r_class_jar/release/generateReleaseRFile/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-localization/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-localization/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-localize/android/build/intermediates/compile_only_not_namespaced_r_class_jar/release/generateReleaseRFile/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-localize/android/build/intermediates/compile_only_not_namespaced_r_class_jar/release/generateReleaseRFile/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-localize/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-localize/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-safe-area-context/android/build/intermediates/compile_only_not_namespaced_r_class_jar/release/generateReleaseRFile/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-safe-area-context/android/build/intermediates/compile_only_not_namespaced_r_class_jar/release/generateReleaseRFile/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-safe-area-context/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-safe-area-context/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-snackbar/android/build/intermediates/compile_only_not_namespaced_r_class_jar/release/generateReleaseRFile/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-snackbar/android/build/intermediates/compile_only_not_namespaced_r_class_jar/release/generateReleaseRFile/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-snackbar/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-snackbar/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-svg/android/build/intermediates/compile_only_not_namespaced_r_class_jar/release/generateReleaseRFile/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-svg/android/build/intermediates/compile_only_not_namespaced_r_class_jar/release/generateReleaseRFile/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-svg/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-svg/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-vector-icons/android/build/intermediates/compile_only_not_namespaced_r_class_jar/release/generateReleaseRFile/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-vector-icons/android/build/intermediates/compile_only_not_namespaced_r_class_jar/release/generateReleaseRFile/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-vector-icons/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-vector-icons/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-webview/android/build/intermediates/compile_only_not_namespaced_r_class_jar/release/generateReleaseRFile/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-webview/android/build/intermediates/compile_only_not_namespaced_r_class_jar/release/generateReleaseRFile/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-webview/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-webview/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-webview/android/build/intermediates/transforms/mergeJavaRes/release/0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-webview/android/build/intermediates/transforms/mergeJavaRes/release/0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-webview/android/build/kotlin/compileReleaseKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-webview/android/build/kotlin/compileReleaseKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native-webview/android/build/kotlin/compileReleaseKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-native-webview/android/build/kotlin/compileReleaseKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native/LICENSE" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="android" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1170">
+              <caret line="78" selection-start-line="78" selection-end-line="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native/0.20.1/aca865df36322fa13483c10dd4898f320b225ec0/react-native-0.20.1-sources.jar!/com/facebook/react/uimanager/NativeViewHierarchyManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>UIBlock</find>
+      <find>ReactBuildConfig</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/org/reactnative/camera/CameraModule.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="android" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="android" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="android [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.android [assemble]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e84462b1-6035-463e-bd79-906a6bffb4b5" name="Default Changelist" comment="" />
+      <created>1595148401709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595148401709</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1057" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.20234291" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" weight="0.32960597" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" weight="0.32953367" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32953367" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" visible="true" weight="0.16240682" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native/0.20.1/aca865df36322fa13483c10dd4898f320b225ec0/react-native-0.20.1-sources.jar!/com/facebook/react/common/build/ReactBuildConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/reactnative/camera/CameraModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native/0.20.1/aca865df36322fa13483c10dd4898f320b225ec0/react-native-0.20.1-sources.jar!/com/facebook/react/uimanager/NativeViewHierarchyManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

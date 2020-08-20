@@ -1,0 +1,71 @@
+{
+  "description": "Various color matrix based image filters for iOS & Android",
+  "keywords": [
+    "react-native",
+    "color-matrix",
+    "image-filter"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "name": "react-native-color-matrix-image-filters",
+  "author": "iyegoroff <iegoroff@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/iyegoroff/react-native-color-matrix-image-filters/issues"
+  },
+  "homepage": "https://github.com/iyegoroff/react-native-color-matrix-image-filters#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iyegoroff/react-native-color-matrix-image-filters.git"
+  },
+  "version": "5.2.2",
+  "peerDependencies": {
+    "@babel/runtime": "*",
+    "fbjs": "*",
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.23",
+    "@types/react-native": "^0.60.0",
+    "eslint-plugin-detox": "^1.0.0",
+    "standard": "^14.3.1"
+  },
+  "dependencies": {
+    "concat-color-matrices": "^1.0.0",
+    "rn-color-matrices": "^4.0.0"
+  },
+  "standard": {
+    "globals": [
+      "__DEV__"
+    ],
+    "ignore": [
+      "fable-typed",
+      "MatrixFilterConstructor",
+      "**/rn-cli.config.js"
+    ],
+    "plugins": [
+      "detox"
+    ]
+  },
+  "scripts": {
+    "precommit": "lint-staged",
+    "preversion": "npm run remove:node-modules && npm run lint",
+    "postversion": "git push && git push --tags",
+    "remove:node-modules": "rm -rf Simple/node_modules && rm -rf MatrixFilterConstructor/node_modules",
+    "test": "cd RNCMIFTest && yarn && yarn clean:android && yarn build:android; yarn reset:packager & yarn test:android",
+    "lint": "standard src/*.js --fix"
+  },
+  "files": [
+    ".dockerignore",
+    "android",
+    "ios",
+    "src",
+    "*.md",
+    "*.podspec",
+    "MatrixFilterConstructor",
+    "Simple",
+    "fable-typed/src",
+    "LICENSE"
+  ]
+}
