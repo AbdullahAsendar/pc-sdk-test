@@ -27,12 +27,14 @@ android {
 dependencies {
     implementation fileTree(dir: "libs", include: ["*.jar"])
     implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'androidx.annotation:annotation:1.0.0'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'androidx.exifinterface:exifinterface:1.0.0'
 
     api 'com.walmartlabs.ern:react-native:0.61.1'
     implementation 'com.google.code.gson:gson:2.8.6'
 
     api project(path: ':react-native-fast-image')
-    api project(path: ':react-native-camera')
     api project(path: ':react-native-gesture-handler')
     api project(path: ':react-native-safe-area-context')
     api project(path: ':react-native-localize')
@@ -43,6 +45,12 @@ dependencies {
     api project(path: ':react-native-color-matrix-image-filters')
     api project(path: ':react-native-slider')
     api project(path: ':react-native-svg')
+
+
+    implementation 'com.google.zxing:core:3.3.3'
+    implementation 'com.drewnoakes:metadata-extractor:2.11.0'
+    implementation 'com.google.android.gms:play-services-vision:17.0.2'
+
 
 
     testImplementation 'junit:junit:4.12'
