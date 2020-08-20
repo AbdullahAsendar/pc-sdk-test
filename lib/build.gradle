@@ -45,7 +45,9 @@ dependencies {
     api project(path: ':react-native-color-matrix-image-filters')
     api project(path: ':react-native-slider')
     api project(path: ':react-native-svg')
-    api(name:'hermes-release', ext:'aar')
+    api(name:'hermes-release', ext:'aar'){
+        transitive=true
+    }
 
 
     implementation 'com.google.zxing:core:3.3.3'
