@@ -28,21 +28,21 @@ dependencies {
     implementation fileTree(dir: "libs", include: ["*.jar"])
     implementation 'androidx.appcompat:appcompat:1.2.0'
 
-    implementation 'com.walmartlabs.ern:react-native:0.61.1'
+    api 'com.walmartlabs.ern:react-native:0.61.1'
     implementation 'com.google.code.gson:gson:2.8.6'
 
-    implementation project(path: ':react-native-fast-image')
-    implementation project(path: ':react-native-camera')
-    implementation project(path: ':react-native-gesture-handler')
-    implementation project(path: ':react-native-safe-area-context')
-    implementation project(path: ':react-native-localize')
-    implementation project(path: ':react-native-localization')
-    implementation project(path: ':react-native-snackbar')
-    implementation project(path: ':react-native-vector-icons')
-    implementation project(path: ':react-native-webview')
-    implementation project(path: ':react-native-color-matrix-image-filters')
-    implementation project(path: ':react-native-slider')
-    implementation project(path: ':react-native-svg')
+    api project(path: ':react-native-fast-image')
+    api project(path: ':react-native-camera')
+    api project(path: ':react-native-gesture-handler')
+    api project(path: ':react-native-safe-area-context')
+    api project(path: ':react-native-localize')
+    api project(path: ':react-native-localization')
+    api project(path: ':react-native-snackbar')
+    api project(path: ':react-native-vector-icons')
+    api project(path: ':react-native-webview')
+    api project(path: ':react-native-color-matrix-image-filters')
+    api project(path: ':react-native-slider')
+    api project(path: ':react-native-svg')
 
 
     testImplementation 'junit:junit:4.12'
