@@ -38,8 +38,6 @@ import android.media.Image;
 import android.media.ImageReader;
 import android.media.MediaRecorder;
 import androidx.annotation.NonNull;
-import androidx.annotation.RequiresApi;
-
 import android.util.Log;
 import android.util.SparseIntArray;
 import android.view.Surface;
@@ -65,7 +63,6 @@ import org.reactnative.camera.utils.ObjectUtils;
 
 @SuppressWarnings("MissingPermission")
 @TargetApi(21)
-@RequiresApi(21)
 class Camera2 extends CameraViewImpl implements MediaRecorder.OnInfoListener, MediaRecorder.OnErrorListener {
 
     private static final String TAG = "Camera2";
