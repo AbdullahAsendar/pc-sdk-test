@@ -1,16 +1,16 @@
 package com.pc.android.program.sdk;
 
-import android.app.Activity;
 import android.os.Bundle;
 
 import androidx.annotation.NonNull;
+import androidx.fragment.app.FragmentActivity;
 
 import com.facebook.react.modules.core.PermissionAwareActivity;
 import com.facebook.react.modules.core.PermissionListener;
 
-public abstract class PointCheckoutActivity extends Activity implements PermissionAwareActivity {
+public abstract class PointCheckoutActivity extends FragmentActivity implements PermissionAwareActivity {
 
-    protected abstract PointCheckoutClient getPointCheckoutClient(Activity activity);
+    protected abstract PointCheckoutClient getPointCheckoutClient(FragmentActivity activity);
     protected abstract PointCheckoutScreen getInitalScreen();
 
     private PointCheckoutClient client;
@@ -20,7 +20,8 @@ public abstract class PointCheckoutActivity extends Activity implements Permissi
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        client = this.getPointCheckoutClient(this);
+        if(client != null)
+            client = this.getPointCheckoutClient(this);
         setContentView(client.getScreen(getInitalScreen()));
 
         client.onBackPressed(new PointCheckoutEventListener() {
